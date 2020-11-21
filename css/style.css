@@ -255,7 +255,16 @@ width: 100%;
     margin-top: 170px;
     overflow: hidden;
 }
-
+.about .title-letter{
+    position: absolute;
+    left: 0;
+    bottom: 131px;
+    margin-left: 30px;
+    font-size: 5.7em;
+    line-height: 1;
+    -webkit-text-stroke:1px rgba(225,225,225,.2);
+    color: transparent;
+    }
 .about .container{
     margin-top: -42px;
     margin-right: -19px;
